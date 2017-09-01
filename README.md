@@ -15,3 +15,6 @@ The following line in index.html will set your view:
 var map = L.map('map').setView([30.85879, 75.86304], 16);
 
 Just by changing longitude and latitude and zoom level you will get your required view. 
+
+- **Popup in a map**
+  This feature will show latitude and longitude of the location you clicked on.
